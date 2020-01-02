@@ -204,9 +204,9 @@ DisableMediaSharing             # EnableMediaSharing
 # UninstallWorkFolders          # InstallWorkFolders
 # UninstallPowerShellV2         # InstallPowerShellV2
 # InstallLinuxSubsystem         # UninstallLinuxSubsystem
-InstallHyperV                   # UninstallHyperV
-InstallSSHClient                # InstallSSHClient
-InstallSSHServer                # UninstallSSHServer
+# InstallHyperV                 # UninstallHyperV
+# InstallSSHClient              # InstallSSHClient
+# InstallSSHServer              # UninstallSSHServer
 # InstallNET23                  # UninstallNET23
 SetPhotoViewerAssociation       # UnsetPhotoViewerAssociation
 AddPhotoViewerOpenWith          # RemovePhotoViewerOpenWith
